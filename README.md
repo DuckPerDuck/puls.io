@@ -1,1 +1,3 @@
-# puls.io
+---
+permalink: /index.html
+---
